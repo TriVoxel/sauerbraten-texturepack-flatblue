@@ -1,8 +1,8 @@
-## Welcome to the Sauerbraten Texturepack Flatblue Project!
+# Welcome to the Sauerbraten Texturepack Flatblue Project!
 
 This project has been discontinued because the game "Cube 2 Sauerbraten" is rarely updated. This theme should work with any Sauerbraten game as of October 21, 2017 when this project was officially ended.
 
-# Features:
+### Features:
 
 - Sleek, modern design
 - Updated icons
