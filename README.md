@@ -8,8 +8,8 @@ This project has been discontinued because the game "Cube 2 Sauerbraten" is rare
 - Updated icons
 - Updated damage indicator
 
-Make sure to visit the [SidedVirus Art & Animation](https://sites.google.com/view/sidedvirus-art-and-animation/home) website!
+Make sure to visit the [SidedVirus Art & Animation](https://sites.google.com/site/sidedvirusartandanimation) website!
 
 ### Make Contact With the Developer:
 
-On my web page [@SidedVirus A&A Make Contact](https://sites.google.com/view/sidedvirus-art-and-animation/home/make-contact)
+On my web page [@SidedVirus A&A Make Contact](https://sites.google.com/site/sidedvirusartandanimation/home/make-contact)
